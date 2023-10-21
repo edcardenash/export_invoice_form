@@ -1,0 +1,2 @@
+class ExportCompany < ApplicationRecord
+end
