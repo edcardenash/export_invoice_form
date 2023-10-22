@@ -1,0 +1,2 @@
+class ExportCompaniesController < ApplicationController
+end
